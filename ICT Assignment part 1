@@ -1,0 +1,98 @@
+<html>
+
+<body>  
+
+<style>
+
+.jj{ 
+
+color: blue;
+
+font-family: Georgia;
+
+font-size: 35px; 
+
+background-color: red; 
+
+}
+
+.red{ 
+
+font-family: apple braile;
+
+font-color: red; 
+
+}
+
+p2 { 
+
+font-size: 15px; 
+
+color: purple; 
+
+font-family: apple braile; 
+
+}
+
+ol{ 
+
+font-family: american typewriter; 
+
+color: purple; 
+
+}
+
+ul {
+
+color: black; 
+
+font-family: Bookman Old Style; 
+
+}
+
+.button {
+
+  border: none;
+
+  color: black;
+
+  padding: 10px 30px;
+
+  text-decoration: none;
+
+  display: inline-block;
+
+  margin: 4px 2px;
+
+  transition-duration: 0.4s;
+
+  cursor: pointer;
+
+}
+
+.button1:hover {
+
+  background-color: red;
+
+  color: white;
+
+}
+
+.button2:hover {
+
+  background-color: green;
+
+  color: white;
+
+} 
+
+.button3:hover {
+
+  background-color: blue;
+
+  color: white;
+
+}
+</style>
+</body>
+
